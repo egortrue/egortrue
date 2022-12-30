@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### About
 I'm software engineer. That's it.
 
 ### Languages and tools

@@ -1,5 +1,5 @@
 
-<h1 align="center">DevOps Engineer :white_heart: Game Developer :white_heart: Using Vim </h1> 
+<h1 align="center">DevOps Engineer :white_heart: Game Developer :white_heart: Software Architector </h1> 
 
 <img align="right" src="https://skillicons.dev/icons?i=rust,c,cs,gradle,ansible,jenkins,githubactions,git,github,bitbucket,gitlab,vim,vscode,unity,blender&perline=5">
 
@@ -11,5 +11,11 @@ mailto:estrukhin@gmail.com
 https://career.habr.com/egortrue \
 https://www.hse.ru/en/ba/se/
 
+<br/>
+
 ---
+
 <p align="center">Rust ◽ C/C++ ◽ C# ◽ Ansible ◽ Gradle ◽ Jenkins ◽ DevOps ◽ Git ◽ GitHub</p>
+
+
+

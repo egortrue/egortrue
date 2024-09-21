@@ -1,22 +1,17 @@
-I'm software engineer. That's it.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egortrue&hide=javascript,java,css,scss,html&theme=tokyonight)
+## Software Engineer :heart: DevOps :heart: Game Developer :heart: IT Bachelor
+<img align="right" src="https://skillicons.dev/icons?i=rust,c,cs,gradle,ansible,jenkins,githubactions,git,github,bitbucket,vim,vscode,unity,blender,ps&perline=6&align=right">
 
-Useful Links:
-- https://www.hse.ru/en/ba/se/
-- https://career.habr.com/egortrue
+A graphics engine based on Vulkan API\
+https://github.com/egortrue/NeVK
 
-<!--
-**egortrue/egortrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An application for graph algorithms visualization\
+https://github.com/egortrue/GraphAL
 
-Here are some ideas to get you started:
+The ultimate DevOps Framework based on "Jenkins Shared Library"\
+https://github.com/egortrue/sapsan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Links
+https://career.habr.com/egortrue \
+https://t.me/egortrue \
+https://www.hse.ru/en/ba/se/

@@ -1,21 +1,30 @@
 
-<h1 align="center">DevOps Engineer :white_heart: Game Developer :white_heart: Software Architector </h1> 
+<h2 align="center">DevOps Engineer :white_heart: Game Developer :white_heart: Software Architector </h2> 
 
-<img align="right" src="https://skillicons.dev/icons?i=rust,c,cs,gradle,ansible,jenkins,githubactions,git,github,bitbucket,gitlab,vim,vscode,unity,blender&perline=5">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egortrue&langs_count=10&hide=html,css,typescript&layout=compact&hide_border=true&hide_title=true&theme=dracula" />
+
+
 
 **Contacts** \
-https://t.me/egortrue \
-mailto:estrukhin@gmail.com
+[t.me/egortrue](https://t.me/egortrue) \
+[estrukhin@gmail.com](mailto:estrukhin@gmail.com)
 
 **Links** \
-https://career.habr.com/egortrue \
-https://www.hse.ru/en/ba/se/
+[habr.com/egortrue](https://career.habr.com/egortrue) \
+[hse.ru/en/ba/se/](https://www.hse.ru/en/ba/se/)
 
 <br/>
 
 ---
 
-<p align="center">Rust ◽ C/C++ ◽ C# ◽ Ansible ◽ Gradle ◽ Jenkins ◽ DevOps ◽ Git ◽ GitHub</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,c,cs,gradle,ansible,jenkins,python,git,github,bitbucket,gitlab,vim,vscode,unity,blender">
+  <p align="center">Rust ◽ C/C++ ◽ C# ◽ Python ◽ Ansible ◽ Kubernetes ◽ Gradle ◽ Jenkins ◽ DevOps ◽ Git </p>
+
+</p>
+
+
+
 
 
 

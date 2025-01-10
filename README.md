@@ -1,5 +1,5 @@
 
-<h2 align="center">DevOps Engineer :white_heart: Game Developer :white_heart: Software Architector </h2> 
+<h2 align="center">C/Rust Developer :white_heart: DevOps Engineer </h2> 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egortrue&langs_count=10&hide=html,css,typescript,javascript&layout=compact&hide_border=true&hide_title=true&theme=dracula" />
 
